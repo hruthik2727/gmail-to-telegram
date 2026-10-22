@@ -1,0 +1,5 @@
+# Secrets and local state: NEVER commit these
+.env
+*.db
+__pycache__/
+.vscode/
